@@ -7,5 +7,5 @@ const GALLERY_IMAGES = [
     "Championship-Trophy.jpg",
     "Team-USA-Picture.png",
     "Olympics-Liz.png",
-    "Olympcis-Dennis.png",
+    "Olympics-Dennis.png",
 ];
