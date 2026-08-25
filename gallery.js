@@ -1,13 +1,14 @@
 const GALLERY_IMAGES = [
     "Liz-Picture.jpg",
-    "Dennis-Picture.jpg",
     "NYSUBWA-logo.png",
+    "Dennis-Picture.jpg",
+    "Team-USA-Picture.png",
     "Olympic-Logo.PNG",
     "Team-Photo.jpg",
-    "Championship-Trophy.jpg",
-    "Team-USA-Picture.png",
     "Olympics-Liz.JPG",
+    "Team-America-Logo.jpg",
     "Olympics-Dennis.JPG",
+    "Championship-Trophy.jpg",
     "Picture-With-President.JPG",
-    "Team-America-Logo.jpg"
+    
 ];
