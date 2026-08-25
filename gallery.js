@@ -9,4 +9,5 @@ const GALLERY_IMAGES = [
     "Olympics-Liz.JPG",
     "Olympics-Dennis.JPG",
     "Picture-With-President.JPG",
+    "Team-America-Logo.jpg"
 ];
